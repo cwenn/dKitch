@@ -1,8 +1,8 @@
 ﻿/* Maggie */
 
 
-html { 
-  overflow-y: scroll; 
+.navbar-collapse {
+	overflow-x:hidden
 }
 
 .navbar a:hover {
