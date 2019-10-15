@@ -18,6 +18,7 @@
 body {
     font: 20px "Montserrat", sans-serif;
     line-height: 1.8;
+	overflow: hidden;
     /*min-width: 800px;*/
 }
 p {
